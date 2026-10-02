@@ -1,0 +1,6 @@
+{
+  "name": "رفيقي",
+  "description": "رفيقك لإدارة ملفات هاتفك وتنظيمها بسهولة. مدير ملفات متكامل وأدوات تنظيف ومساعد ذكي يعمل بدون إنترنت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">رفيقي</string>
+    <string name="app_slogan">ملفاتك، أدواتك، ورفيقك في مكان واحد</string>
+    <string name="app_description">رفيقك لإدارة ملفات هاتفك وتنظيمها بسهولة.</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_files">الملفات</string>
+    <string name="nav_recent">حديثة</string>
+    <string name="nav_favorites">المفضلة</string>
+    <string name="nav_tools">أدوات رفيقي</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- Storage card -->
+    <string name="storage_title">مساحة التخزين</string>
+    <string name="storage_used_of">%1$s مستخدمة من %2$s</string>
+    <string name="storage_free">المتبقي: %1$s</string>
+
+    <!-- Categories -->
+    <string name="cat_images">الصور</string>
+    <string name="cat_videos">الفيديوهات</string>
+    <string name="cat_audio">الصوت</string>
+    <string name="cat_docs">المستندات</string>
+    <string name="cat_downloads">التنزيلات</string>
+    <string name="cat_archives">الملفات المضغوطة</string>
+    <string name="cat_apps">التطبيقات</string>
+    <string name="cat_favorites">المفضلة</string>
+    <string name="cat_other">ملفات أخرى</string>
+
+    <!-- Operations -->
+    <string name="op_open">فتح</string>
+    <string name="op_share">مشاركة</string>
+    <string name="op_rename">إعادة تسمية</string>
+    <string name="op_delete">حذف</string>
+    <string name="op_copy">نسخ</string>
+    <string name="op_move">نقل</string>
+    <string name="op_paste">لصق هنا</string>
+    <string name="op_cancel">إلغاء</string>
+    <string name="op_create_folder">مجلد جديد</string>
+    <string name="op_zip">ضغط إلى ZIP</string>
+    <string name="op_unzip">فك الضغط</string>
+    <string name="op_favorite">إضافة للمفضلة</string>
+    <string name="op_unfavorite">إزالة من المفضلة</string>
+    <string name="op_details">التفاصيل</string>
+
+    <!-- Tools -->
+    <string name="tool_clean">تنظيف التخزين</string>
+    <string name="tool_clean_desc">فحص الملفات الكبيرة والمكررة والمؤقتة بأمان</string>
+    <string name="tool_large_files">الملفات الكبيرة</string>
+    <string name="tool_large_files_desc">عرض وفرز أكبر الملفات المستهلكة للمساحة</string>
+    <string name="tool_duplicates">الملفات المكررة</string>
+    <string name="tool_duplicates_desc">اكتشاف النسخ المكررة وتوفير المساحة</string>
+    <string name="tool_assistant">مساعد رفيقي</string>
+    <string name="tool_assistant_desc">نصائح ذكية لتنظيم جهازك وتحسين التخزين</string>
+
+    <!-- Messages and errors -->
+    <string name="error_open_file">تعذر فتح الملف</string>
+    <string name="error_file_not_found">الملف غير موجود</string>
+    <string name="error_access_denied">لا يمكن الوصول إلى هذا المجلد</string>
+    <string name="error_move_failed">حدث خطأ أثناء نقل الملف</string>
+    <string name="error_copy_failed">حدث خطأ أثناء نسخ الملف</string>
+    <string name="error_delete_failed">حدث خطأ أثناء حذف الملف</string>
+    <string name="error_no_storage">لا توجد مساحة تخزين كافية</string>
+    <string name="error_permission_denied">تم رفض الإذن</string>
+    <string name="error_no_app">لا يوجد تطبيق مثبت لفتح هذا الملف</string>
+
+    <string name="confirm_delete_title">تأكيد الحذف</string>
+    <string name="confirm_delete_msg">هل أنت متأكد من رغبتك في حذف هذا العنصر نهائيًا؟</string>
+    <string name="confirm_delete_batch">هل أنت متأكد من حذف %1$d عناصر محددة؟</string>
+    <string name="empty_folder">المجلد فارغ</string>
+    <string name="empty_recent">لا توجد ملفات حديثة حتى الآن</string>
+    <string name="empty_favorites">لم تقم بإضافة أي ملفات للمفضلة بعد</string>
+    <string name="permission_rationale">يحتاج رفيقي إلى إذن الوصول للملفات ليتمكن من تصفحها وإدارتها وتنظيمها على هاتفك.</string>
+    <string name="grant_permission">منح الإذن</string>
+</resources>
